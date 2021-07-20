@@ -1,11 +1,11 @@
 # Tugas Pemograman Web Kas Warga
 
-# LINK HOSTING : https://battousai.my.id/yusuf/
+# Lik Hosting : https://battousai.my.id/yusuf/
 
 <hr>
 
 # Nama  : Yusuf Muhammad    
-# NIM   : 311910617
+# Nim   : 311910617
 # Kelas : TI.19.B2
 
 <hr>
