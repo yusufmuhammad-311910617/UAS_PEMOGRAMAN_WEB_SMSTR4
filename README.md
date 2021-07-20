@@ -34,8 +34,7 @@
 
 <hr>
 # 4. Menu Pemasukan :
-![6](https://user-images.githubusercontent.com/81587959/126371590-b6d43afc-4a5c-463f-a69a-9918203d1cc6.PNG)
-
+![6](https://user-images.githubusercontent.com/81587959/126371669-165e4890-a691-4943-906c-eab3c4e368cb.PNG)
 
 <hr>
 
