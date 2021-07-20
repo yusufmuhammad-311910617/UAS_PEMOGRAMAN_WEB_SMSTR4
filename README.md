@@ -1,54 +1,35 @@
-# UAS_PEMOGRAMAN_WEB_SEMESTER 4
-<hr>
+# CodeIgniter 4 Framework
 
-# NAMA          : Yusuf Muhammad
-# NIM           : 311910617
-# KELAS         : TI.19.B2
+## DEMO?
 
-<hr>
+http://54.254.248.107/ci/public/
 
-# LINK HOSTING : https://battousai.my.id/yusuf/
 
-<hr>
+## Index
 
-# MENU UTAMA APLIKASI :
-![1](https://user-images.githubusercontent.com/81587959/126317801-4355f0a7-1714-4ead-b585-796fb4f7d6c9.PNG)
+![image](https://user-images.githubusercontent.com/39154644/126063500-ea68bc9e-3c8d-40e9-9631-87250c682555.png)
 
-<hr>
 
-# MENU DATA WARGA :
-![2](https://user-images.githubusercontent.com/81587959/126317860-c2d9b294-d1ec-4349-a856-8bb1d36e36f2.PNG)
+## CRUD Pelayananan
 
-# TAMBAH WARGA :
-![3](https://user-images.githubusercontent.com/81587959/126317939-a17e6223-4600-4767-8945-2e8e1ecc0a71.PNG)
+![image](https://user-images.githubusercontent.com/39154644/126063524-be1479e1-c3ba-4f15-b3a4-427f5631621c.png)
 
-# EDIT WARGA :
-![4](https://user-images.githubusercontent.com/81587959/126317975-9c898e7d-c05a-47a9-b431-b41707d1c3e3.PNG)
+## Ambil antrian
 
-<h>
+![image](https://user-images.githubusercontent.com/39154644/126063540-6a95db48-4357-4792-862a-146a24b1a9d3.png)
 
-# MENU DATA PANITIA :
-  ![5](https://user-images.githubusercontent.com/81587959/126318074-20f41e6d-b431-4362-a2b4-8b2641049fed.PNG)
-<hr>
-  
-# MENU PEMASUKAN :
-![6](https://user-images.githubusercontent.com/81587959/126318146-4d0002e1-b3bf-491a-9ce9-1fdffd4849c5.PNG)
-  
-<hr>
 
-# MENU PENGELUARAN :
-![7](https://user-images.githubusercontent.com/81587959/126318197-c995a45e-2e41-43e3-acd5-61cce79b9c0d.PNG)
+## Result ketika berhasil ambil antrian
 
-  
+![image](https://user-images.githubusercontent.com/39154644/126063553-b0de4012-de4d-4c62-ab6e-1bf4ca51750f.png)
 
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
+
+## Loket Panggil
+
+![image](https://user-images.githubusercontent.com/39154644/126063562-9473b1ad-21da-4a1b-a2f3-4e3db1fb39ba.png)
+
+
+## Result ketika berhasil memanggil antrian
+
+![image](https://user-images.githubusercontent.com/39154644/126063598-266ed9f8-9be8-4408-add6-85a14443c290.png)
+
